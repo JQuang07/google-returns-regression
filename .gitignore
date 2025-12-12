@@ -1,0 +1,7 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Generated data files
+data/raw/goog_raw.csv
+data/processed/goog_features.csv
